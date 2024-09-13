@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Estudo\\MentAvancMod02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|d:\\unity_estudo\\mentavancmod02\\assets\\scripts\\rotationsoldierred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotationsoldierred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|d:\\unity_estudo\\mentavancmod02\\assets\\scripts\\jumpingsoldierred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jumpingsoldierred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|D:\\Unity_Estudo\\MentAvancMod02\\assets\\scripts\\movimentsoldierred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentsoldierred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|D:\\Unity_Estudo\\MentAvancMod02\\assets\\scripts\\movimentsadvcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB370639-3345-BC6F-F8C7-9215782F3758}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentsadvcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotationSoldierRed.cs",
+              "DocumentMoniker": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\RotationSoldierRed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotationSoldierRed.cs",
+              "ToolTip": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\RotationSoldierRed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotationSoldierRed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:58:14.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JumpingSoldierRed.cs",
+              "DocumentMoniker": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\JumpingSoldierRed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JumpingSoldierRed.cs",
+              "ToolTip": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\JumpingSoldierRed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JumpingSoldierRed.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wDMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:46:47.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimentSoldierRed.cs",
+              "DocumentMoniker": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\MovimentSoldierRed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentSoldierRed.cs",
+              "ToolTip": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\MovimentSoldierRed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimentSoldierRed.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:46:47.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovimentsAdvCha.cs",
+              "DocumentMoniker": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\MovimentsAdvCha.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentsAdvCha.cs",
+              "ToolTip": "D:\\Unity_Estudo\\MentAvancMod02\\Assets\\Scripts\\MovimentsAdvCha.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimentsAdvCha.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:17:34.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
